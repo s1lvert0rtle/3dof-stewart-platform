@@ -1,3 +1,5 @@
+#disclaimer: AI generated script but it serves the purpose.
+
 import socket
 import struct
 import time
