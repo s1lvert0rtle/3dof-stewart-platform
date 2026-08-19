@@ -8,4 +8,4 @@ https://dominicplein.medium.com/extrinsic-intrinsic-rotation-do-i-multiply-from-
 
 last but not the least, Gemini was a very helpful companion throughout the project.
 
-this project is still rough around the edges, however, for now, I am sharing it as it is, a proof of concept, and later I may add more refinements to it (closed loop control, safeguarding around the bounds, and so on.)
+this project is still rough around the edges, however, for now, I am sharing it as it is, a proof of concept, and later I may add more refinements to it (closed loop control, better safeguarding around the bounds, and so on.)
