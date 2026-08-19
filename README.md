@@ -8,5 +8,4 @@ To be able to run the simulation, you need the following installed -
 
 and the python libraries as needed.
 
-if you find any bugs or errors during the simulation, feel free to keep them to yourself :) (jk let me know)
 
